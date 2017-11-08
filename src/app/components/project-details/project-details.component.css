@@ -1,0 +1,27 @@
+#projecttitle{
+    font-size: 20px;
+}
+.container{ 
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 50px; 
+  }
+
+#editanddelete{
+    margin-left: 50%;
+}
+
+#workflowmodify{
+    margin-left: 69%;
+
+}
+
+.workflowtitle{
+    font-size: 20px;
+    padding-top: 15px;
+
+}
+
+#workflowcard{
+    margin-bottom: 10px;
+}
